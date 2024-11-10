@@ -65,7 +65,7 @@ npm run dev
 ```
 ### Estrutura de Pastas
 ```bash
-lumestack-projetoorangehrm-automation-cypress/
+lumestack-projeto-cypress/
 ├── cypress/
 │   ├── e2e/                    # Arquivos de Teste
 |   ├── login.cy.js             # Arquivos .Spec contendo os casos de teste
