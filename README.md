@@ -7,7 +7,6 @@ Qualidade ministrado pela escola de QA (Quality Assurance) Lumestack https://www
 ### Índice
 - Introdução
 - Pré-requisitos
-- Instalação
 - Execução dos Testes
 - Estrutura de Pastas
 
