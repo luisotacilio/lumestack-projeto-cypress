@@ -2,7 +2,7 @@
 Este repositório contém testes funcionais do software OrangeHRM usando o Cypress. 
 O objetivo e demonstrar a utilização dessa ferramenta em um teste funcional automatizado.
 O contexto para sua realização é ser parte do treinamento para formação em Engenharia de
-Qualidade mistrado pela escola de QA (Quality Assurance) Lumestack https://www.lumestack.com.
+Qualidade ministrado pela escola de QA (Quality Assurance) Lumestack https://www.lumestack.com.
 
 ### Índice
 - Introdução
