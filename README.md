@@ -54,6 +54,35 @@ npx tsc --init
   "include": ["**/*.ts"]
 }
 ```
+### Execução dos Testes
+Clonar o projeto:
+```bash
+$ git clone git@github.com:luisotacilio/lumestack-projeto-cypress
+```
+Estando no diretorio de intalação do projeto executar o comando 
+```bash
+npm run dev
+```
+### Estrutura de Pastas
+```bash
+lumestack-projetoorangehrm-automation-cypress/
+├── cypress/
+│   ├── e2e/                    # Arquivos de Teste
+|   ├── login.cy.js             # Arquivos .Spec contendo os casos de teste
+│   ├── Pages                   # Paginas mapeadas com o Padrão arquitetural POM (Page Objecet Model)
+|       ├── loginPage.ts        # Arquivo contendo elementos da página de login e as ações do teste
+|       ├── myInfoPage.ts       # Arquivo contendo elementos da página de candidatos a emprego e as ações do teste
+│   ├── Reports                 # Páginas mapaeadas com o Padrão arquitetural POM (Page Objecet Model)
+|       ├── evidencia1.jpg      # Arquivo contendo imagem do resultado dos testes aplicados ao login
+|       ├── evidencia2.jpg      # Arquivo contendo imagem do resultado de teste aplicados ao item myInfoPage
+├── cypress.json                # Configuração do Cypress 
+└── package.json                # Atributos, chaves e dependencias do projeto
+└── README.md                   # Documentação
+└── tsconfig.ts                 # Atributos, chaves e configurações da linguagem Typescript
+```
+	
+
+
 
 
   
