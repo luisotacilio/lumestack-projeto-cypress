@@ -41,6 +41,7 @@ npm install typescript --save-dev
 - Criar e Editar o tsconfig.ts
 ```bash
 npx tsc --init
+
 {
   "compilerOptions": {
     "target": "es2016",
